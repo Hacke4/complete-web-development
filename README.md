@@ -23,3 +23,13 @@ DOCUMENTATIONS AND CHEATSHEETS
 [FLEX - Malven](https://flexbox.malven.co/) - A visual cheatsheet for CSS flex layout.
 
 [GRID - Malven](https://grid.malven.co/) - A visual cheatsheet for CSS grid layout.
+
+DESIGN TOOLS
+
+[Figma](https://www.figma.com/) - Figma helps teams create, test, and ship better designs from start to finish.
+
+[Adobe XD]() - Share your story with designs that look and feel like the real thing. Wireframe, animate, prototype, collaborate, and more — it’s all right here, all in one place.
+
+Sketch - Create, prototype, collaborate, and bring your ideas to life with the design platform used by over one million people — from freelancers, to the world’s largest teams.
+
+Whimsical - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
