@@ -84,3 +84,20 @@ HTML AND CSS
 [CSS Formatter](https://www.cleancss.com/css-beautify/) - Online CSS Formatter, CSS Beautifier.
 
 [Placeholder](https://placeholder.com/) - How To Use Our Placeholders. Just specify the image size after our URL and you’ll get a placeholder image.
+
+FRONT END CHALLENGES OR SKILLS
+
+[CodePen](https://codepen.io/) - Build, share, and learn JavaScript, CSS, and HTML with our online code editor
+
+[Frontend Mentor](https://www.frontendmentor.io/) - Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.
+
+[Good Code](https://www.codewell.cc/)  - Browse through dozens of front end coding challenges, complete with Adobe XD files and styleguides.
+
+[cod
+ier](https://codier.io/)  - Explore and attempt front-end coding challenges.
+
+[
+CSSBattle](https://cssbattle.dev/)CSS code-golfing is here! Use your CSS skills to replicate targets with smallest possible code. Feel free to check out the targets below and put your CSS skills to test.
+
+
+
