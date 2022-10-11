@@ -37,13 +37,12 @@ DESIGN TOOLS
 HOW THE WEB WORKS?
 
 [
-How the Internet Works Video](https://www.youtube.com/watch?v=x3c1ih2NJEg)How does the Internet Works?
+How the Internet Works Video](https://www.youtube.com/watch?v=x3c1ih2NJEg) - How does the Internet Works?
 
 [
-How the Internet Works Brief Videos ](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)brief explanations on, how does the Internet works?
+How the Internet Works Brief Videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) - A brief explanations on, how does the Internet works?
 
-How the Internet Works Brief Videos - A brief explanations on, how does the Internet works?
 
-DNS - How DNS works?
+[DNS](https://howdns.works/)- How DNS works?
 
-HTTPS - How HTTPS works?
+[HTTPS](https://howhttps.works/) - How HTTPS works?
