@@ -4,10 +4,10 @@ DEVELOPER ROADMAPS
 
 [Frontend](https://roadmap.sh/frontend)  - Frontend Development Roadmap.
 
-Backend  - Backend Development Roadmap.
+[Backend](https://roadmap.sh/backend)  - Backend Development Roadmap.
 
-React - React Development Roadmap.
+[React](https://roadmap.sh/react) - React Development Roadmap.
 
-Andriod  - Android Development Roadmap.
+[Andriod](https://roadmap.sh/android)  - Android Development Roadmap.
 
-DevOps - DevOps Roadmap.
+[DevOps](https://roadmap.sh/devops) - DevOps Roadmap.
