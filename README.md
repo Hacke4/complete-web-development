@@ -93,11 +93,18 @@ FRONT END CHALLENGES OR SKILLS
 
 [Good Code](https://www.codewell.cc/)  - Browse through dozens of front end coding challenges, complete with Adobe XD files and styleguides.
 
-[cod
-ier](https://codier.io/)  - Explore and attempt front-end coding challenges.
+[codier](https://codier.io/)  - Explore and attempt front-end coding challenges.
 
 [
 CSSBattle](https://cssbattle.dev/)CSS code-golfing is here! Use your CSS skills to replicate targets with smallest possible code. Feel free to check out the targets below and put your CSS skills to test.
 
+FONTS AND TYPOGRAPHY
 
+[Google Fonts](https://fonts.google.com/) - The #1 resource for free and easy-to-use webfonts.
+
+[Fonts Arena](https://fontsarena.com/) - Free fonts, free alternatives to premium fonts, done-for-you-research articles.
+
+[Fontjoy](https://fontjoy.com/) - Fontjoy helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing.
+
+[FontPair](https://www.fontpair.co/) - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
 
