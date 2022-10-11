@@ -28,8 +28,20 @@ DESIGN TOOLS
 
 [Figma](https://www.figma.com/) - Figma helps teams create, test, and ship better designs from start to finish.
 
-[Adobe XD]() - Share your story with designs that look and feel like the real thing. Wireframe, animate, prototype, collaborate, and more — it’s all right here, all in one place.
+[Adobe XD](https://www.adobe.com/in/products/xd.html) - Share your story with designs that look and feel like the real thing. Wireframe, animate, prototype, collaborate, and more — it’s all right here, all in one place.
 
-Sketch - Create, prototype, collaborate, and bring your ideas to life with the design platform used by over one million people — from freelancers, to the world’s largest teams.
+[Sketch](https://www.sketch.com/) - Create, prototype, collaborate, and bring your ideas to life with the design platform used by over one million people — from freelancers, to the world’s largest teams.
 
-Whimsical - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
+[wimsical](https://whimsical.com/) - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
+
+HOW THE WEB WORKS?
+[
+How the Internet Works Video](https://www.youtube.com/watch?v=x3c1ih2NJEg)How does the Internet Works?
+[
+How the Internet Works Brief Videos ](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)brief explanations on, how does the Internet works?
+
+How the Internet Works Brief Videos - A brief explanations on, how does the Internet works?
+
+DNS - How DNS works?
+
+HTTPS - How HTTPS works?
