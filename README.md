@@ -108,3 +108,16 @@ FONTS AND TYPOGRAPHY
 
 [FontPair](https://www.fontpair.co/) - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
 
+COLORS AND TOOLS
+
+[Coolors](https://coolors.co/) - Generate or browse beautiful color combinations for your designs.
+
+[0to255](https://0to255.com/) - A color tool that makes it easy to lighten and darken colors.
+
+[color x color](https://colorcolor.in/) - A tool to create accessible color systems for UIs
+
+[Colors and Fonts](https://www.colorsandfonts.com/) - Find colors and typography combinations ready to copy paste in one click.
+
+[ColorSpace](https://mycolor.space/) - Generate nice Color Palettes.
+
+[CSS Gradient](https://cssgradient.io/) - Free css gradient generator tool.
