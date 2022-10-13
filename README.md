@@ -1,5 +1,6 @@
 # complete-web-development
 Complete Web Development Resources 2021 All in one
+
 **DEVELOPER ROADMAPS**
 
 [Frontend](https://roadmap.sh/frontend)  - Frontend Development Roadmap.
@@ -12,7 +13,7 @@ Complete Web Development Resources 2021 All in one
 
 [DevOps](https://roadmap.sh/devops) - DevOps Roadmap.
 
-DOCUMENTATIONS AND CHEATSHEETS
+**DOCUMENTATIONS AND CHEATSHEETS**
 
 [MDN Web Docs](https://developer.mozilla.org/en-US/) - The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.
 
@@ -24,7 +25,7 @@ DOCUMENTATIONS AND CHEATSHEETS
 
 [GRID - Malven](https://grid.malven.co/) - A visual cheatsheet for CSS grid layout.
 
-DESIGN TOOLS
+**DESIGN TOOLS**
 
 [Figma](https://www.figma.com/) - Figma helps teams create, test, and ship better designs from start to finish.
 
@@ -34,7 +35,7 @@ DESIGN TOOLS
 
 [wimsical](https://whimsical.com/) - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
 
-HOW THE WEB WORKS?
+**HOW THE WEB WORKS?**
 
 [
 How the Internet Works Video](https://www.youtube.com/watch?v=x3c1ih2NJEg) - How does the Internet Works?
@@ -47,7 +48,7 @@ How the Internet Works Brief Videos](https://www.youtube.com/playlist?list=PLzdn
 
 [HTTPS](https://howhttps.works/) - How HTTPS works?
 
-HTML AND CSS
+**HTML AND CSS**
 
 [freeCodeCamp](https://www.freecodecamp.org/learn/) - Free course to learn Web Development.
 
@@ -85,7 +86,7 @@ HTML AND CSS
 
 [Placeholder](https://placeholder.com/) - How To Use Our Placeholders. Just specify the image size after our URL and you’ll get a placeholder image.
 
-FRONT END CHALLENGES OR SKILLS
+**FRONT END CHALLENGES OR SKILLS**
 
 [CodePen](https://codepen.io/) - Build, share, and learn JavaScript, CSS, and HTML with our online code editor
 
@@ -98,7 +99,7 @@ FRONT END CHALLENGES OR SKILLS
 [
 CSSBattle](https://cssbattle.dev/)CSS code-golfing is here! Use your CSS skills to replicate targets with smallest possible code. Feel free to check out the targets below and put your CSS skills to test.
 
-FONTS AND TYPOGRAPHY
+**FONTS AND TYPOGRAPHY**
 
 [Google Fonts](https://fonts.google.com/) - The #1 resource for free and easy-to-use webfonts.
 
@@ -108,7 +109,7 @@ FONTS AND TYPOGRAPHY
 
 [FontPair](https://www.fontpair.co/) - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
 
-COLORS AND TOOLS
+**COLORS AND TOOLS**
 
 [Coolors](https://coolors.co/) - Generate or browse beautiful color combinations for your designs.
 
@@ -122,7 +123,7 @@ COLORS AND TOOLS
 
 [CSS Gradient](https://cssgradient.io/) - Free css gradient generator tool.
 
-IMAGE RESOURCES
+**IMAGE RESOURCES**
 
 [Unsplash](https://unsplash.com/) - Free images and photos.
 
@@ -138,7 +139,7 @@ IMAGE RESOURCES
 
 [befunky](https://www.befunky.com/) - BeFunky’s all-in-one online Creative Platform has everything you need to easily edit photos, create graphic designs, and make photo collages.
 
-ILLUSTRATIONS
+**ILLUSTRATIONS**
 
 [unDraw](https://undraw.co/illustrations) - Browse to find the illustrations that fit your needs and click to download.
 
