@@ -121,3 +121,29 @@ COLORS AND TOOLS
 [ColorSpace](https://mycolor.space/) - Generate nice Color Palettes.
 
 [CSS Gradient](https://cssgradient.io/) - Free css gradient generator tool.
+
+IMAGE RESOURCES
+
+[Unsplash](https://unsplash.com/) - Free images and photos.
+
+[Pexels](https://www.pexels.com/) - Free stock photos.
+
+[Pixabay](https://pixabay.com/)  - Free image or video.
+
+[LOADING.IO](https://loading.io/) - Free spinner for your projects.
+
+[LottieFiles](https://lottiefiles.com/) - LottieFiles is a collection of animations designed for Lottie - gone are the days of bugging your developer.
+
+[removebg](https://www.remove.bg/) - Remove Image Background.
+
+[befunky](https://www.befunky.com/) - BeFunky’s all-in-one online Creative Platform has everything you need to easily edit photos, create graphic designs, and make photo collages.
+
+ILLUSTRATIONS
+
+[unDraw](https://undraw.co/illustrations) - Browse to find the illustrations that fit your needs and click to download.
+
+[manypixels](https://www.manypixels.co/gallery)  - Free illustrations to power up your projects. Use them in a commercial or non-commercial way for your landing pages, blog posts, email newsletters, social media graphics and more.
+
+[DrawKit](https://www.drawkit.com/) - Hand-drawn vector illustration and icon resources, perfect for your next project.
+
+[freepik](https://www.freepik.com/) - Free graphic resources.
