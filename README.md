@@ -149,7 +149,7 @@ CSSBattle](https://cssbattle.dev/)CSS code-golfing is here! Use your CSS skills 
 
 📌[freepik](https://www.freepik.com/) - Free graphic resources.
 
-ICONS
+**ICONS**
 
 👑[Ionicons](https://ionic.io/ionicons) - Open-Sourced and MIT licensed icon pack.
 
@@ -167,7 +167,7 @@ ICONS
 
 👑[Simple Icons](https://simpleicons.org/) - 1463 Free SVG icons for popular brands.
 
-GENERATORS
+**GENERATORS**
 
 ✡️[Lorem Ipsum](https://loremipsum.io/) - Lorem Ipsum generator.
 
@@ -187,7 +187,7 @@ GENERATORS
 
 ✡️[CSS Grid Generator](https://grid.layoutit.com/) - Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.
 
-ACCESSIBILITY
+**ACCESSIBILITY**
 
 🔆[Accessibility Blog](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94?gi=e0b0e9e00c9d) - Medium - Seven easy-to-implement guidelines to design a more accessible web.
 
@@ -195,11 +195,11 @@ ACCESSIBILITY
 
 🔆[Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) - Practical approaches to Universal Design for making your website/webapp accessible to everyone.
 
-SITE ANALYZERS
+**SITE ANALYZERS**
 
 ✅[Similar Web](https://www.similarweb.com/) - All in one Website analytics & competitive traffic intelligence platform - Compare website traffic and performance, analyze strategies & grow your market.
 
-TERMINALS FOR WINDOWS
+**TERMINALS FOR WINDOWS**
 
 💗[Windows Terminal](https://apps.microsoft.com/store/detail/9N0DX20HK701?hl=en-us&gl=US)
 
@@ -209,7 +209,7 @@ TERMINALS FOR WINDOWS
 
 💗[Cmder](https://cmder.net/)
 
-ONLINE IDE, EDITOR
+**ONLINE IDE, EDITOR**
 
 ⬤[
 Repl.it](https://replit.com/)
