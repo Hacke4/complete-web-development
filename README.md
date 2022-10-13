@@ -148,3 +148,83 @@ CSSBattle](https://cssbattle.dev/)CSS code-golfing is here! Use your CSS skills 
 [DrawKit](https://www.drawkit.com/) - Hand-drawn vector illustration and icon resources, perfect for your next project.
 
 [freepik](https://www.freepik.com/) - Free graphic resources.
+
+ICONS
+
+[Ionicons](https://ionic.io/ionicons) - Open-Sourced and MIT licensed icon pack.
+
+[Font Awesome](https://fontawesome.com/) - Vector icons and social logos.
+
+[Material Icons](https://fonts.google.com/icons?selected=Material+Icons) - Material icons are delightful, beautifully crafted symbols for common actions and items. Download on desktop to use them in your digital products for Android, iOS, and web.
+
+[icons](https://icons8.com/icons) - Download free icons in PNG and SVG.
+
+[flaticon](https://www.flaticon.com/) - Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
+
+[Tabler Icons](https://tablericons.com/) - Fully customizable free SVG icons.
+
+[icofont](https://icofont.com/icons) - 2100+ free icons to spice up your creative designs.
+
+[Simple Icons](https://simpleicons.org/) - 1463 Free SVG icons for popular brands.
+
+GENERATORS
+
+[Lorem Ipsum](https://loremipsum.io/) - Lorem Ipsum generator.
+
+[RealFaviconGenerator](https://realfavicongenerator.net/) - Favicon generator
+
+[Favicon Maker](https://formito.com/tools/favicon) - Free Favicon maker.
+
+[Meta Tags](https://metatags.io/) - Meta Tags generator, preview how your webpage will look on Google, Facebook, Twitter and more!
+
+[Clippy](https://bennettfeely.com/clippy/) - CSS clip-path maker.
+
+[Regex101](https://regex101.com/) - Online regex tester.
+
+[Web Code Tool](https://webcode.tools/)  - Generate HTML5, CSS3, Microdata, JSON-LD, Twitter Cards, Open Graph and more!
+
+[Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source .
+
+[CSS Grid Generator](https://grid.layoutit.com/) - Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.
+
+ACCESSIBILITY
+
+[Accessibility Blog](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94?gi=e0b0e9e00c9d) - Medium - Seven easy-to-implement guidelines to design a more accessible web.
+
+[Accessibility Blog](https://dev.to/erhannah/13-ways-to-level-up-your-site-s-accessibility-22c6) - Dev - 13 ways to level up your site’s accessibility.
+
+[Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) - Practical approaches to Universal Design for making your website/webapp accessible to everyone.
+
+SITE ANALYZERS
+
+[Similar Web](https://www.similarweb.com/) - All in one Website analytics & competitive traffic intelligence platform - Compare website traffic and performance, analyze strategies & grow your market.
+
+TERMINALS FOR WINDOWS
+
+[Windows Terminal](https://apps.microsoft.com/store/detail/9N0DX20HK701?hl=en-us&gl=US)
+
+[FluentTerminal](https://github.com/felixse/FluentTerminal)
+
+[Hyper](https://hyper.is/)
+
+[Cmder](https://cmder.net/)
+
+ONLINE IDE, EDITOR
+
+[
+Repl.it](https://replit.com/)
+
+[
+CodeSandbox](https://codesandbox.io/)
+
+[
+CodePen](https://codepen.io/)
+
+[
+JS Bin](https://jsbin.com/?html,output)
+
+[
+JSFiddle](https://ide.goorm.io/)
+
+[
+goormIDE](https://ide.goorm.io/)
