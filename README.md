@@ -228,3 +228,25 @@ JSFiddle](https://ide.goorm.io/)
 
 ⬤[
 goormIDE](https://ide.goorm.io/)
+
+**JAVASCRIPT**
+
+[freeCodeCamp](https://www.freecodecamp.org/learn/)  - Best free resource to learn JavaScript interactively.
+
+[Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)  - Free course to learn JavaScript interactively.
+
+JavaScript.info - Modern JavaScript Tutorial.
+
+Eloquent JavaScript - This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here.
+
+JavaScript30  - 30 days vanilla JS coding challenge. Build 30 things in 30 days with 30 tutorials.
+
+How JavaScript works
+
+JavaScript Reference By MDN
+
+JavaScript Event Reference
+
+DOM Manipulation Reference
+
+JavaScript Design Patterns
